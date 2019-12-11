@@ -8,6 +8,7 @@
     <pattern>hola</pattern>
     <template>hola amig@</template>
 </category>
+
 <category>
     <pattern></pattern>
     <template></template>
